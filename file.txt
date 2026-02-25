@@ -1,3 +1,27 @@
+Tinkecad:
+2:
+https://www.tinkercad.com/things/h1qFjcPqngx/editel?returnTo=%2Fdashboard&sharecode=LzH5Dec88EPJJaYzqPMpMl44dKYqR2pxFa8v225WQ-s
+
+3:
+https://www.tinkercad.com/things/9l8E55sx33s/editel?returnTo=%2Fdashboard&sharecode=tgz15lren81ViMVL_JLxPCW72pWrclIIB5QIMtC-r18
+
+
+4:
+https://www.tinkercad.com/things/hS734wQxaeu/editel
+
+5:
+https://www.tinkercad.com/things/aZximHoN6xH/editel?returnTo=%2Fdashboard&sharecode=pQuo0PlZqOMZb73ifM5fYp_ekTRS5iU-DjxgCdOHL14
+
+
+
+
+
+
+
+
+
+
+
 INTRODUCTION TO ARDUINO
 Arduino Uno
 The Arduino Uno is an open-source microcontroller board based on the Microchip ATmega328Pmicrocontroller and developed by Arduino.cc.
